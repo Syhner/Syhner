@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative"
+  width="1012" height="160" viewBox="0 0 1012 160">
+  <style>
+    .text {
+      font-size: 70px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+
+    .desc {
+      font-size: 20px;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+
+    .text, .desc {
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+  </style>
+  <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
+
+    <defs>
+      <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#fc00ff" />
+        <stop offset="100%" stop-color="#00dbde" />
+      </linearGradient>
+    </defs>
+
+    <path d="" fill="url(#linear)" opacity="0.4" transform="scale (-1, 1)" transform-origin="center">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 100Q 213.5 140 427 110T 1012 135L 1012 0 Z;M0 0L 0 125Q 213.5 140 427 120T 1012 110L 1012 0 Z;M0 0L 0 145Q 213.5 115 427 145T 1012 110L 1012 0 Z;M0 0L 0 100Q 213.5 140 427 110T 1012 135L 1012 0 Z" />
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4" transform="scale (-1, 1)" transform-origin="center">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 115Q 213.5 160 427 130T 1012 140L 1012 0 Z;M0 0L 0 130Q 213.5 100 427 100T 1012 120L 1012 0 Z;M0 0L 0 125Q 213.5 105 427 130T 1012 145L 1012 0 Z;M0 0L 0 115Q 213.5 160 427 130T 1012 140L 1012 0 Z" />
+    </path>
+  </g>
+
+  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" fill="white">Technologies</text>
+  <text text-anchor="middle" alignment-baseline="middle" x="76%" y="60%" class="desc" fill="white">and tools</text>
+</svg>
