@@ -18,6 +18,7 @@
 <a href="https://reactjs.org/"><img src="images/React.svg" title="React"></a>
 <a href="https://reactnative.dev/"><img src="images/React-Native.svg" title="React Native"></a>
 <a href="https://redux.js.org/"><img src="images/Redux.svg" title="Redux"></a>
+<a href="https://nextjs.org/"><img src="images/Next-js.svg" title="Next.js"></a>
 <a href="https://svelte.dev/"><img src="images/Svelte.svg" title="Svelte"></a>
 <a href="https://kit.svelte.dev/"><img src="images/SvelteKit.svg" title="SvelteKit"></a>
 <a href="https://www.apollographql.com/"><img src="images/Apollo-GraphQL.svg" title="Apollo GraphQL"></a>
@@ -27,6 +28,7 @@
 <a href="https://developer.chrome.com/docs/devtools/"><img src="images/Chrome.svg" title="Chrome developer tools"></a>
 <a href="https://firefox-source-docs.mozilla.org/devtools-user/index.html"><img src="images/Firefox.svg" title="Firefox developer tools"></a>
 <a href="https://www.netlify.com/"><img src="images/Netlify.svg" title="Netlify"></a>
+<a href="https://vercel.com/"><img src="images/Vercel.svg" title="Vercel"></a>
 <a href="https://letsencrypt.org/"><img src="images/Lets-Encrypt.svg" title="Let's Encrypt"></a>
 <a href="https://emmet.io/"><img src="images/Emmet.svg" title="Emmet"></a>
 
@@ -71,6 +73,7 @@
 <a href="https://www.maplesoft.com/products/Maple/"><img src="images/Maple.svg" title="Maple"></a>
 <a href="https://expressjs.com/"><img src="images/Express.svg" title="Express"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="images/Flask.svg" title="Flask"></a>
+<a href="https://strapi.io/"><img src="images/Strapi.svg" title="Strapi"></a>
 <a href="https://mochajs.org/"><img src="images/Mocha.svg" title="Mocha"></a>
 <a href="https://www.chaijs.com/"><img src="images/Chai.svg" title="Chai"></a>
 <a href="https://jestjs.io/"><img src="images/Jest.svg" title="Jest"></a>
@@ -92,9 +95,7 @@
 
 ### Learning next
 
-<a href="https://nextjs.org/"><img src="images/Next-js.svg" title="Next.js"></a>
 <a href="https://www.figma.com"><img src="images/Figma.svg" title="Figma"></a>
-<a href="https://vercel.com/"><img src="images/Vercel.svg" title="Vercel"></a>
 <a href="https://vitejs.dev/"><img src="images/Vite.svg" title="Vite"></a>
 <a href="https://postcss.org/"><img src="images/PostCSS.svg" title="PostCSS"></a>
 <a href="https://jekyllrb.com/"><img src="images/Jekyll.svg" title="Jekyll"></a>
@@ -110,7 +111,6 @@
 ### Learning next
 
 <a href="https://www.nginx.com/"><img src="images/NGINX.svg" title="NGINX"></a>
-<a href="https://strapi.io/"><img src="images/Strapi.svg" title="Strapi"></a>
 <a href="https://kubernetes.io/"><img src="images/Kubernetes.svg" title="Kubernetes"></a>
 <a href="https://pptr.dev/"><img src="images/Puppeteer.svg" title="Puppeteer"></a>
 <a href="https://wordpress.com/"><img src="images/Wordpress.svg" title="Wordpress"></a>
