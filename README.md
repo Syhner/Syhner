@@ -6,14 +6,15 @@
 
 ### Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/JavaScript.svg" title="JavaScript"></a>
-<a href="https://www.typescriptlang.org/"><img src="images/TypeScript.svg" title="TypeScript"></a>
+<a href="https://www.figma.com"><img src="images/Figma.svg" title="Figma"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/HTML.svg" title="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/CSS.svg" title="CSS"></a>
 <a href="https://sass-lang.com/"><img src="images/Sass.svg" title="Sass"></a>
 <a href="https://getbootstrap.com/"><img src="images/Bootstrap.svg" title="Bootstrap"></a>
 <a href="https://tailwindcss.com/"><img src="images/Tailwind-CSS.svg" title="Tailwind CSS"></a>
 <a href="https://mui.com/"><img src="images/Material-UI.svg" title="Material UI"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/JavaScript.svg" title="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="images/TypeScript.svg" title="TypeScript"></a>
 <a href="https://jquery.com/"><img src="images/jQuery.svg" title="jQuery"></a>
 <a href="https://reactjs.org/"><img src="images/React.svg" title="React"></a>
 <a href="https://reactnative.dev/"><img src="images/React-Native.svg" title="React Native"></a>
@@ -95,7 +96,6 @@
 
 ### Learning next
 
-<a href="https://www.figma.com"><img src="images/Figma.svg" title="Figma"></a>
 <a href="https://vitejs.dev/"><img src="images/Vite.svg" title="Vite"></a>
 <a href="https://postcss.org/"><img src="images/PostCSS.svg" title="PostCSS"></a>
 <a href="https://jekyllrb.com/"><img src="images/Jekyll.svg" title="Jekyll"></a>
