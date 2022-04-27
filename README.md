@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/Banner.svg" alt="Technologies and tools banner"/>
+<img src="Banner.svg" alt="Technologies and tools banner"/>
 </div>
 
 <table><tr><td valign="top" width="33%" align="center">
