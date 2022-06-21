@@ -124,7 +124,7 @@
 
 ### Learning next
 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="icons/C++.svg" title="C++"></a>
+<a href="https://www.rust-lang.org/"><img src="icons/Rust.svg" title="Rust"></a>
 <a href="https://auth0.com/"><img src="icons/Auth0.svg" title="Auth0"></a>
 <a href="https://socket.io/"><img src="icons/Socket-IO.svg" title="Socket.IO"></a>
 <a href="https://docs.soliditylang.org"><img src="icons/Solidity.svg" title="Solidity"></a>
